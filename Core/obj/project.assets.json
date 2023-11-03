@@ -2623,11 +2623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\SEYFULLAH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

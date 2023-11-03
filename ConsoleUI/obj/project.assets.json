@@ -2698,11 +2698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\SEYFULLAH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2723,8 +2723,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\SEYFULLAH\\Documents\\GitHub\\Final_Project\\Business\\Business.csproj"
             }
           }
         }
