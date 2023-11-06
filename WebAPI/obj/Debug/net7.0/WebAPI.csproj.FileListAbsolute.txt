@@ -77,3 +77,7 @@ C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\obj\Debug\net7.0\refint
 C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\obj\Debug\net7.0\WebAPI.pdb
 C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
 C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\bin\Debug\net7.0\Autofac.dll
+C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\bin\Debug\net7.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\SEYFULLAH\Documents\GitHub\Final_Project\WebAPI\bin\Debug\net7.0\FluentValidation.dll
