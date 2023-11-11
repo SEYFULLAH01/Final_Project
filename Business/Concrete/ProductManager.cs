@@ -1,4 +1,5 @@
 ﻿using Business.Absract;
+using Business.CCS;
 using Business.Constants;
 using Business.ValidationRules;
 using Core.Aspects.Autofac.Validation;
@@ -20,9 +21,12 @@ namespace Business.Concrete
     public class ProductManager : IProductService
     {
         IProductDal _productDal;
+
         public ProductManager(IProductDal productDal)
         {
+
             _productDal = productDal;
+
         }
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
